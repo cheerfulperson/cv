@@ -1,1 +1,1 @@
-https://github.com/cheerfulperson/cv
+Go to check: https://cheerfulperson.github.io/cv/
